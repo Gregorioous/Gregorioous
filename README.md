@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to android development
 - 🌱 I’m currently learning on Android Developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 〜⁠(⁠꒪⁠꒳⁠꒪⁠)⁠〜
+- 📫 How to reach me 〜⁠(⁠꒪⁠꒳⁠꒪⁠)⁠〜 https://t.me/Gregoorius
 
 <!---
 Gregorioous/Gregorioous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
