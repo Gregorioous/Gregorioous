@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gregorioous
 - 👀 I’m interested in everything related to android development
 - 🌱 I’m currently working Android Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on forever
 - 📫 How to reach me 〜⁠(⁠꒪⁠꒳⁠꒪⁠)⁠〜 https://t.me/Gregoorius
 
 <!---
