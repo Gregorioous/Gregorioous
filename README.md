@@ -8,3 +8,4 @@
 Gregorioous/Gregorioous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img width="880" height="192" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/67df5c26-47c9-43ab-8651-82ae8e067bfd" />
